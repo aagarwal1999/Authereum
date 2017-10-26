@@ -1,5 +1,6 @@
 This project was created as an entry at the Ethereal Hackathon 2017 in Berkeley, California which was co-hosted by Blockchain at Berkeley and Consensys.
-Team Members: Saharsh Agrawal, Albert Xu, Abhay Malik, Ankit Agarwal
+### Team Members
+Saharsh Agrawal, Albert Xu, Abhay Malik, Ankit Agarwal
 # Authereum
 Have certifications all over the place? Need to quickly verify credentials? Authereum is your best bet.
 
