@@ -2,18 +2,7 @@
 Hello! this project is for prospective Blockchain at Berkeley Developers. You should complete this before 2nd round interviews -we will be testing you on some of this.
 
 ## Objective:
-Your task is simply to output the following in your console via the tools/frameworks below:
 
-    "Hello World"
-
-To do so you must
-1. Download this repository
-2. Download the required software dependencies
-4. Complete and compile the provided `Greeter.sol` "Hello World" smart contract
-5. Deploy the smart contract to a test blockchain
-6. Use `truffle console` then call the deployed contract's `greet()` function
-
-Note: You will only be required to edit `Greeter.sol` 
 
 ## First, a brief introduction on each of the tools we will be using and the versions that you will need to download:
 ### Windows Users go [HERE](http://truffleframework.com/tutorials/how-to-install-truffle-and-testrpc-on-windows-for-blockchain-development)
@@ -47,7 +36,3 @@ Once your greeter passes the test:
 2. Run `truffle console`. This will open up a Node JavaScript console that is connected to your testrpc server. Find a way to reference the Greeter smart contract that you deployed and call both the **Constructor** and **`greet()`** functions. [Truffle console docs](http://truffleframework.com/docs/getting_started/console)
 
 If your greeter returns "Hello World!" when prompted, then you have successfully completed the project. However, know that you will be tested not only on the functionality of your code, but your ability and knowledge of the tools and frameworks used in Ethereum Development.
-
-## Stuck?
-
-Contact us at [tech@blockchain.berkeley.edu](mailto:tech@blockchain.berkeley.edu)  or come to office hours: Monday, September 11th 3pm - Late in Moffit 1 & Tuesday, September 12th 5pm - Late in Moffit 1.
